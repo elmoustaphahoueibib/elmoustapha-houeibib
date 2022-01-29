@@ -7,6 +7,7 @@ import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyle
 
 const Header = () =>  (
   <Container>
+    <title>Elmoustapha Houeibib</title>
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
